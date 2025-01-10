@@ -1,3 +1,1 @@
 flask==1.1.2 # Version: 1.1.2
-pytest==6.2.2 # Version: 6.2.2
-jinjia2==2.11.3 # Version: 2.11.3
