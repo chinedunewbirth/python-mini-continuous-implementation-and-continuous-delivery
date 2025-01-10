@@ -1,1 +1,1 @@
-flask==1.1.2 # Version: 1.1.2
+flask # Version: 1.1.2
